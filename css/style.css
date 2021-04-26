@@ -1,0 +1,16 @@
+h3 {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.blocco_password {
+    text-align: center;
+}
+
+span {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: lightcoral; 
+}
